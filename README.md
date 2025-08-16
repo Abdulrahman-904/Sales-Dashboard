@@ -5,7 +5,7 @@ This project analyzes retail sales data to uncover insights on revenue, profit, 
 Using **Excel pivot tables and pivot charts**, we built an interactive dashboard that highlights key business metrics.  
 
 ## 📂 Dataset  
-The dataset (`Session6.xlsx`) contains:  
+The dataset (`Sales Dataset.xlsx`) contains:  
 - **Order Details**: Order ID, Order Date, Ship Date, Ship Mode  
 - **Customer Info**: Customer ID, Name, Segment, Country, City  
 - **Product Info**: Product ID, Category, Sub-Category, Product Name  
@@ -32,12 +32,12 @@ Source: Sample Superstore-style dataset.
 - **Microsoft Excel** → Data cleaning, Pivot Tables, Charts, Dashboard  
 
 ## 📁 Files  
-- `Session6.xlsx` → Main dataset & dashboard  
+- `Sales Dataset.xlsx` → Main dataset & dashboard  
 - `README.md` → Project documentation  
 
 ## 📌 How to Use  
 1. Download the repository.  
-2. Open `Session6.xlsx` in Microsoft Excel (2016 or later).  
+2. Open `Sales Dataset.xlsx` in Microsoft Excel (2016 or later).  
 3. Navigate to the dashboard sheet to explore visual insights.  
 4. Use slicers and filters to interact with the data.  
 
